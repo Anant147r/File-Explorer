@@ -7,3 +7,5 @@
 2.In command mode only goto ,rename,create dir and delete file is implemented.
 
 3.Please open the terminal in full screen mode
+
+4.To run the file explorer type "make filexp" in terminal
